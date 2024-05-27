@@ -1,0 +1,459 @@
+
+body{
+    background-color: #282828;
+}
+            .header{
+                height: 1165px;
+                background: #282828;
+                margin: auto;
+                width: 94%;
+            }
+
+            .left{
+                height: 975px;
+                width: 713px;
+                float: left;
+                margin-top: 96px;
+                background-color: #fff;
+            }
+
+            .left-image{
+                height: 973px;
+                width: 705px;
+                float: left;
+            }
+
+            .right{
+                height: 975px;
+                width: 700px;
+                background-color: #ffffff;
+                float: right;
+                margin-top: 96px;
+            }
+
+            .parent1{
+                height: 210px;
+                width: 100%;
+                margin-top: 5px;
+                margin-left: 3px;
+            }
+
+            .STUDENT{
+                float: right;
+                font-size: 22px;
+                font-family: sans-serif;
+                font-weight: bold;
+                margin-right: 287px;
+                margin-top: -152px;
+            }
+
+            .left1{
+                height: 85px;
+                width: 325px;
+                float: left;
+                margin-left: 6px;
+                margin-top: -92px;
+            }
+
+            .name{
+                float: right;
+                font-size: 15px;
+                font-family: sans-serif;
+                font-weight: bold;
+                margin-right: 214px;
+                margin-top: 15px;
+            }
+
+            .many{
+                height: 37px;
+                width: 245px;
+                margin-left: 62px;
+                font-size: 15px;
+                border: 1px solid #ebebeb;
+                margin-top: -9px;
+            }
+
+            .many:hover{
+                border: 1px solid #ff6801;
+            }
+
+            .right1{
+                height: 85px;
+                width: 325px;
+                float: left;
+                margin-left: 334px;
+                margin-top: -92px;
+            }
+
+            .father{
+                float: right;
+                font-size: 15px;
+                font-family: sans-serif;
+                font-weight: bold;
+                margin-right: 214px;
+                margin-top: 15px;
+            }
+
+            .many1{
+                height: 37px;
+                width: 245px;
+                margin-left: 11px;
+                font-size: 15px;
+                border: 1px solid #ebebeb;
+                margin-top: -9px;
+            }
+
+            .many1:hover{
+                border: 1px solid #ff6801;
+            }
+
+            .parent2{
+                height: 89px;
+                width: 100%;
+                margin-top: 2px;
+                margin-left: 3px;
+            }
+
+            .address{
+                float: left;
+                font-size: 15px;
+                font-family: sans-serif;
+                font-weight: bold;
+                margin-top: -72px;
+                margin-left: 69px;
+            }
+
+            .many2{
+                height: 37px;
+                width: 526px;
+                margin-left: 67px;
+                font-size: 15px;
+                border: 1px solid #ebebeb;
+                margin-top: 40px;
+            }
+
+            .many2:hover{
+                border: 1px solid #ff6801;
+            }
+
+            .parent3{
+                height: 54px;
+                width: 100%;
+                margin-top: 2px;
+                margin-left: 3px;
+            }
+
+            .gender{
+                float: right;
+                font-size: 15px;
+                font-family: sans-serif;
+                font-weight: bold;
+                margin-right: 573px;
+                margin-top: 22px;
+            }
+
+            .child1{
+                height: 30px;
+                width: 145px;
+                float: left;
+                margin-left: 155px;
+                margin-top: -33px;
+            }
+
+            .custom-radio{
+                margin-left: 32px;
+            }
+
+            .Male{
+                float: left;
+                margin-top: -18px;
+                margin-left: 64px;
+                font-family: sans-serif;
+                font-size: 16px;
+            }
+
+            input[type=radio] {
+                accent-color: #ff6801;
+                cursor: pointer;
+                margin-left: 10px;
+              }
+            
+            .child2{
+                height: 30px;
+                width: 145px;
+                float: right;
+                margin-right: 224px;
+                margin-top: -33px;
+            }
+
+            .Female{
+                margin-right: 56px;
+                margin-top: 3px;
+                font-family: sans-serif;
+                font-size: 16px;
+                float: right;
+            }
+
+            .parent4{
+                height: 95px;
+                width: 100%;
+                margin-top: 2px;
+                margin-left: 3px;
+            }
+
+            .State{
+                float: right;
+                font-size: 15px;
+                font-family: sans-serif;
+                font-weight: bold;
+                margin-right: 203px;
+                margin-top: 22px;
+            }
+
+            .home-lite{
+                height: 37px;
+                width: 243px;
+                margin-left: 40px;
+                font-size: 15px;
+                margin-top: -10px;
+                border: 1px solid #ebebeb;
+                cursor: pointer;
+            }
+
+            .home-lite:hover{
+                border: 1px solid #ff6801;
+            }
+
+            .child3{
+                height: 88px;
+                width: 288px;
+                float: left;
+                margin-left: 26px;
+                margin-top: 3px;
+            }
+
+            .brush{
+                height: 37px;
+                width: 243px;
+                margin-left: 40px;
+                font-size: 15px;
+                border: 1px solid #ebebeb;
+                margin-top: -17px;
+            }
+
+            .child4{
+                height: 88px;
+                width: 288px;
+                float: left;
+                margin-left: 19px;
+                margin-top: 3px;
+            }
+
+            .City{
+                float: right;
+                font-size: 15px;
+                font-family: sans-serif;
+                font-weight: bold;
+                margin-right: 241px;
+                margin-top: 22px;
+            }
+
+            .home{
+                height: 37px;
+                width: 243px;
+                margin-left: 0px;
+                font-size: 15px;
+                margin-top: -10px;
+                border: 1px solid #ebebeb;
+                cursor: pointer;
+            }
+
+            .home:hover{
+                border: 1px solid #ff6801;
+            }
+
+            .teeth{
+                height: 37px;
+                width: 243px;
+                margin-left: 12px;
+                font-size: 15px;
+                border: 1px solid #ebebeb;
+                margin-top: -17px;
+            }
+
+            .parent5{
+                height: 70px;
+                width: 100%;
+                margin-top: 2px;
+                margin-left: 3px;
+            }
+
+            .teeth1{
+                height: 37px;
+                width: 526px;
+                margin-left: 67px;
+                font-size: 15px;
+                border: 1px solid #ebebeb;
+                margin-top: 26px;
+            }
+
+            .teeth1:hover{
+                border: 1px solid #ff6801;
+            }
+
+            .DOB{
+                float: left;
+                font-size: 15px;
+                font-family: sans-serif;
+                font-weight: bold;
+                margin-top: -63px;
+                margin-left: 66px;
+            }
+
+            .parent6{
+                height: 89px;
+                width: 100%;
+                margin-top: 2px;
+                margin-left: 3px;
+            }
+
+            .teeth2{
+                height: 37px;
+                width: 526px;
+                margin-left: 67px;
+                font-size: 15px;
+                border: 1px solid #ebebeb;
+                margin-top: 42px;
+            }
+
+            .teeth2:hover{
+                border: 1px solid #ff6801;
+            }
+
+            .Pincode{
+                float: left;
+                font-size: 15px;
+                font-family: sans-serif;
+                font-weight: bold;
+                margin-top: -62px;
+                margin-left: 66px;
+            }
+
+            .parent7{
+                height: 89px;
+                width: 100%;
+                margin-top: 2px;
+                margin-left: 3px;
+            }
+
+            .teeth3{
+                height: 37px;
+                width: 526px;
+                margin-left: 67px;
+                font-size: 15px;
+                border: 1px solid #ebebeb;
+                margin-top: 42px;
+            }
+
+            .Course{
+                float: left;
+                font-size: 15px;
+                font-family: sans-serif;
+                font-weight: bold;
+                margin-top: 22px;
+                margin-left: 66px;
+            }
+
+            .house{
+                height: 37px;
+                width: 526px;
+                margin-left: 67px;
+                font-size: 15px;
+                margin-top: -10px;
+                border: 1px solid #ebebeb;
+                cursor: pointer;
+            }
+
+            .house:hover{
+                border: 1px solid #ff6801;
+            }
+
+            .parent8{
+                height: 89px;
+                width: 100%;
+                margin-top: 2px;
+                margin-left: 3px;
+            }
+
+            .teeth4{
+                height: 37px;
+                width: 526px;
+                margin-left: 67px;
+                font-size: 15px;
+                border: 1px solid #ebebeb;
+                margin-top: 42px;
+            }
+
+            .teeth4:hover{
+                border: 1px solid #ff6801;
+            }
+
+            .Email-ID{
+                float: left;
+                font-size: 15px;
+                font-family: sans-serif;
+                font-weight: bold;
+                margin-top: -64px;
+                margin-left: 66px;
+            }
+
+            .parent9{
+                height: 174px;
+                width: 100%;
+                margin-top: 2px;
+                margin-left: 3px;
+            }
+
+            .left2{
+                height: 42px;
+                width: 139px;
+                float: left;
+                margin-left: 303px;
+                margin-top: 40px;
+                background: #f8f8f8;
+                color: #999;
+            }
+
+            .Reset-all{
+                font-size: 14px;
+                font-family: sans-serif;
+                text-align: center;
+                margin-top: 14px;
+            }
+
+            .left2:hover{
+                background-color: #ff6801;
+                color: #ffffff;
+                cursor:pointer;
+            }
+
+            .right8{
+                height: 42px;
+                width: 139px;
+                float: right;
+                margin-right: 74px;
+                margin-top: 40px;
+                background: #ff6801;
+                color: #fff;
+            }
+
+            .Submit-Form{
+                font-size: 14px;
+                font-family: sans-serif;
+                text-align: center;
+            }
+
+            .right8:hover{
+                background-color: #cd5300;
+                cursor:pointer;
+            }
